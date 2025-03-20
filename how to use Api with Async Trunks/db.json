@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Elsie Price",
+      "id": 3
+    },
+    {
+      "name": "Harold Strosin",
+      "id": 4
+    }
+  ],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking Trip",
+      "userId": 1
+    },
+    {
+      "id": "65c3",
+      "userId": 1,
+      "title": "this is new title"
+    },
+    {
+      "id": "1c6c",
+      "userId": 3,
+      "title": "this is new title"
+    }
+  ],
+  "photos": [
+    {
+      "id": "72ee",
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=25094"
+    },
+    {
+      "id": "ec64",
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=3817"
+    },
+    {
+      "id": "378e",
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=19964"
+    },
+    {
+      "id": "a44c",
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=52467"
+    }
+  ]
+}
